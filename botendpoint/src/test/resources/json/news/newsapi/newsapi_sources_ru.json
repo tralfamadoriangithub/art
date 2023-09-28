@@ -1,0 +1,1391 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "id": "sports",
+      "name": "sports",
+      "url": "https://www.sports.ru/",
+      "description": "Спорт во всех проявлениях, свежие новости российского и мирового спорта, аналитика, интервью спортсменов, статистика, фото и видео. Блоги звездных спортсменов и тренеров, сообщества пользователей.",
+      "category": [
+        "sports"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "cryptocurrency_tech",
+      "name": "Криптовалюта Tech",
+      "url": "https://cryptocurrency.tech/",
+      "description": "Профессиональное издание посвященное биткоину и криптовалютам. Актуальные мнения, события, инвестиции, торговая аналитика каждый день.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "koenigsberger_express",
+      "name": "Koenigsberger-Express",
+      "url": "https://koenigsberger-express.com/",
+      "description": "The \"Königsberger Express\" has been published in Kaliningrad by Russian journalists since May 1993.",
+      "category": [
+        "top",
+        "politics",
+        "business",
+        "entertainment",
+        "science",
+        "tourism"
+      ],
+      "language": [
+        "german"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "novosti_ru",
+      "name": "Novosti Spb Ru",
+      "url": "http://novosti.spb.ru/",
+      "description": "Новости Санкт-Петербурга и побратимов Санкт-Петербурга",
+      "category": [
+        "politics",
+        "top",
+        "world",
+        "entertainment",
+        "sports",
+        "technology",
+        "business"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "infpol",
+      "name": "Информ Полис",
+      "url": "http://infpol.ru/",
+      "description": "Самые оперативные и качественные новости Бурятии",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "eg_online",
+      "name": "Экономика и Жизнь",
+      "url": "https://www.eg-online.ru/",
+      "description": "Экономика и Жизнь - консультационно-аналитический портал. Электронная версия газеты Экономика и Жизнь. Оформление подписки на издания",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "total",
+      "name": "Total",
+      "url": "https://total.kz/",
+      "description": "Новостной ресурс, оперативная информация о событиях Республики Казахстан, СНГ, Cредней Азии и мира",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "a2bitcoins",
+      "name": "2 Bitcoins",
+      "url": "https://2bitcoins.ru/",
+      "description": "Простым языком о Bitcoin, Ethereum, майнинге криптовалют и ICO. Новости из мира блокчейн. Какую ферму купить и где? Сколько стоит ASIC? Объясняем на пальцах.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "evening_kazan",
+      "name": "Вечерняя Казань",
+      "url": "https://www.evening-kazan.ru/",
+      "description": "Газета Труд расскажет Вам о последних новостях, происшествиях, политике, работе и развлечениях",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "zonakz",
+      "name": "ЗОНАКЗ",
+      "url": "https://zonakz.net/",
+      "description": "Казахстан, политика, общество, новости. Острые общественно-политические темы Казахстана. Новости и аналитика. Тексты, видео, мультимедиа. Обзоры казнета. Токаев. Правительство Казахстана. Выборы. Вакцинация. Вакцина. COVID-19. Коронавирус. Экономика. Политика. Интервью. Казахский язык. Голодомор. История. Казахский алфавит. Президент Казахстана. Акимы. Аким Алматы. Локдаун. Карантин. Миграция. Туризм. Обзор Facebook. Образование в Казахстане.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "cryptonewsland",
+      "name": "CryptoNewsLand",
+      "url": "https://cryptonewsland.com/",
+      "description": "CryptoNewsLand is a cryptocurrency news website that features all developments in the blockchain industry as well as crypto price changes.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "dutch",
+        "english",
+        "russian",
+        "spanish"
+      ],
+      "country": [
+        "united arab emirates",
+        "russia",
+        "spain",
+        "netherland"
+      ]
+    },
+    {
+      "id": "tass",
+      "name": "ТАСС",
+      "url": "https://tass.ru/",
+      "description": "События в России и мире. Аналитические публикации. Материалы пресс-конференций. Видео- и фоторепортажи",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "chaspik",
+      "name": "ЧАС ПИК NEWS",
+      "url": "http://www.chaspik.spb.ru/",
+      "description": "ЧАС ПИК NEWS» - Свежие новости сегодня! Свежие новости сегодня, Час Пик News Санкт-Петербург. Агрегатор свежих новостей дня.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "newsvl",
+      "name": "NEWS VL",
+      "url": "https://www.newsvl.ru/",
+      "description": "Новости Владивостока и Приморского края. Фото и видеорепортажи.",
+      "category": [
+        "sports"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "lenta",
+      "name": "LENTA",
+      "url": "https://lenta.ru/",
+      "description": "Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "sputnikglobe",
+      "name": "Sputnik News",
+      "url": "https://sputnikglobe.com/",
+      "description": "Sputnik International is a global news agency keeping you updated on all the latest world news 24/7. Browse Sputnik for breaking news and top stories on politics, economy, social media and the most viral trends.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "lada",
+      "name": "ЛАДА",
+      "url": "https://www.lada.kz/",
+      "description": "Новости Актау и Мангистауской области. Объявления, полезная информация, курсы валют в банках Актау, погода и температура воды в Каспийском море.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "kapital",
+      "name": "Kapital",
+      "url": "https://kapital.kz/",
+      "description": "Деловой портал Kapital.kz - последние новости Казахстана и мира в сфере экономики, бизнеса, финансов и высоких технологий в РК и за рубежом. А также информация по кадровым перестановкам, опросы, блоги экспертов на деловом портале Казахстана капитал.кз",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "getblock",
+      "name": "GetBlock",
+      "url": "https://getblock.net/",
+      "description": "Обозреватель блоков BTC, ETH, LTC, TRX, USDT, BCH, DASH, DOGE, ZEC с возможностью оценить AML чистоту вашей криптовалюты. Находите и фильтруйте свои транзакции и адреса.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english",
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "regnum",
+      "name": "ИА REGNUM",
+      "url": "https://regnum.ru/",
+      "description": "Федеральное информационное агентство. Сфера вещания ИА REGNUM охватывает все регионы России и сопредельные государства Европы, Средней Азии и Закавказья.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "versia",
+      "name": "Версия",
+      "url": "https://versia.ru/",
+      "description": "Расследование конфликтов, власть, политика, общество, культура, криминал - объективный взгляд на происходящие события и новости в Москве, России и мире. Интернет-версия популярного в России еженедельника «Наша версия».",
+      "category": [
+        "top",
+        "business",
+        "sports"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "pravda_ru",
+      "name": "Pravda",
+      "url": "https://english.pravda.ru/",
+      "description": "",
+      "category": [
+        "business",
+        "science",
+        "top"
+      ],
+      "language": [
+        "english"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "otyrar",
+      "name": "OTYRAR",
+      "url": "https://otyrar.kz/",
+      "description": "Свежие и достоверные новости Шымкента и Туркестанской области.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "russiaherald",
+      "name": "Russia Herald",
+      "url": "https://www.russiaherald.com/",
+      "description": "Online newspaper for Russia, presents breaking local news, the top stories, business headlines and Russia weather. XML RSS feeds, facility to add or be emailed Russia news headlines, movie and hotel reviews.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "zelenograd",
+      "name": "Зеленоград.ру",
+      "url": "https://www.zelenograd.ru/",
+      "description": "Самое важное, интересное и полезное для всех, кто живет или бывает в Зеленограде",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "ng_ru",
+      "name": "Ng Ru",
+      "url": "https://www.ng.ru/",
+      "description": "Последние новости России и мировые новости. Политика. Экономика. Войны. Культура. Все свежие новости в «Независимой газете». Публикуем в реальном времени",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "kk_primorska",
+      "name": "KK Primorska",
+      "url": "https://www.sd.rs/tags/kk-primorska",
+      "description": "Najnovije vesti, događaji i dešavanja kako u svetu tako i u Srbiji. Vesti dana iz zemlje, sveta, politike, zabave, kulture, online novosti - Srbija Danas",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "zr_media",
+      "name": "Золотой Рог",
+      "url": "https://zr.media/",
+      "description": "Актуальные новости главных событий и происшествий Владивостока и Приморья на сегодня, новости политики, экономики, культуры и спорта, свежие репортажи, интервью, статьи на сайте сетевого издания Золотой Рог",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "sobesednik",
+      "name": "Собеседник",
+      "url": "https://sobesednik.ru/",
+      "description": "Независимое общественно-политическое издание. Журналистские расследования, публикации Дмитрия Быкова, статьи о жизни знаменитостей, интервью с режисcёрами и актерами, злободневные тексты о социальных проблемах.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "rg_ru",
+      "name": "Российская газета",
+      "url": "https://www.rg.ru/",
+      "description": "Новости сегодня в России и мире. Российская газета - издание Правительства Российской Федерации, официальный публикатор документов",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "altynorda",
+      "name": "АЛТЫНОРДА",
+      "url": "http://www.altyn-orda.kz/",
+      "description": "АЛТЫНОРДА Новости казахстана -",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "vedomosti",
+      "name": "Vedomosti",
+      "url": "https://www.vedomosti.ru/",
+      "description": "Качественный контент о бизнесе, экономике и политике. Актуальные новости, экспертные статьи и аналитика в деловом издании «Ведомости»",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "gazeta_ru",
+      "name": "Газета.Ru",
+      "url": "http://www.gazeta.ru/",
+      "description": "Главные новости дня из&nbsp;Москвы и регионов, информационная лента новостей, новости России и мира, события дня и последнего часа, аналитика, комментарии, видео.",
+      "category": [
+        "politics",
+        "business",
+        "top",
+        "entertainment",
+        "science",
+        "technology"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "aif",
+      "name": "аргументы и факты",
+      "url": "https://aif.ru/",
+      "description": "Аргументы и Факты: круглосуточное ежедневное обновление новостей России и мира, репортажи, истории. Темы в формате вопрос-ответ, инфографики, фото и видеоматериалы. Полнотекстовые выпуски газеты, архив номеров",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "lgz_ru",
+      "name": "Lgz Ru",
+      "url": "https://lgz.ru/",
+      "description": "Литературная газета - общественно-политический еженедельник: актуальные события, проблемы литературы, искусства, политики, общества, фото, комментарии, юмор",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "mgorod",
+      "name": "Новости Уральска",
+      "url": "https://mgorod.kz/",
+      "description": "Новости Уральска, Актобе, Атырау | Мой город",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "ug_ru",
+      "name": "Учительская газета",
+      "url": "https://ug.ru/",
+      "description": "Печень называют сложнейшей «химической лабораторией», в которой происходят важнейшие процессы жизнеобеспечения всего организма. У печени почти нет болевых рецепторов, отчего свои задачи она выполняет в тишине.",
+      "category": [
+        "top",
+        "science",
+        "environment",
+        "tourism",
+        "health",
+        "business"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "bitexpert",
+      "name": "BitExpert",
+      "url": "https://bitexpert.io/",
+      "description": "ткоин новости, инвестиции в криптовалюту, майнинг FAQ и новости. Актуальные новости криптовалют. Технологии блокчейн, торговля криптовалютой и инвестиции. Самая актуальная информация о криптовалютах в интернете.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "rzd_partner",
+      "name": "РЖД-Партнер",
+      "url": "https://www.rzd-partner.ru/",
+      "description": "Актуальные новости о развитии железнодорожного, автомобильного, авиационного, водного транспорта, логистики, альтернативных способах доставки, инновациях, транспортных коридорах.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "themoscowtimes",
+      "name": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/",
+      "description": "Independent news from Russia",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "coinedition",
+      "name": "Coin Edition",
+      "url": "https://coinedition.com/",
+      "description": "Coin Edition provides the latest news, the most in-depth reviews, and accessible guides for everything related to the blockchain and cryptocurrency industry.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english",
+        "french",
+        "spanish",
+        "indonesian",
+        "german",
+        "russian",
+        "portuguese"
+      ],
+      "country": [
+        "united arab emirates",
+        "germany",
+        "spain",
+        "france",
+        "indonesia",
+        "portugal",
+        "russia"
+      ]
+    },
+    {
+      "id": "coinspot",
+      "name": "Coin Spot",
+      "url": "https://coinspot.io/",
+      "description": "Власти Тайваня в рамках политики регулирования блокчейн-индустрии разрешат криптокомпаниям создавать отраслевые ассоциации.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "coinlife",
+      "name": "Coin Life",
+      "url": "https://coinlife.com/",
+      "description": "COINLIFE.COM - информация о крипторынке. Самые важные новости о рынке криптовалют в России и мире, аналитика, онлайн курсы валют и сервисы для владельцев цифровых активов на одном интернет-портале.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "utro",
+      "name": "Утро.ру",
+      "url": "https://utro.ru/",
+      "description": "Последние новости на сегодня. Самые свежие новости России и мира, новости политики, шоу-бизнеса. Происшествия сегодня – фото и видео. Лента новостей Утро.ру.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "forklog",
+      "name": "ForkLog",
+      "url": "https://forklog.com/",
+      "description": "ForkLog — самое популярное медиа о криптовалютах, биткоине и блокчейне. Последние новости, аналитика и прогнозы экспертов о курсе криптовалют.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "krd_pravda",
+      "name": "Krd-Pravda Ru",
+      "url": "https://krd-pravda.ru/",
+      "description": "Газета «Краснодарская правда» является печатным органом коммунистов города Краснодара. В ней публикуются материалы, которые освещают деятельность городской организации КПРФ, депутатов-коммунистов всех уровней и в целом общественно-политическую жизнь нашего города, региона, страны.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "cryptonews_net",
+      "name": "cryptonews",
+      "url": "https://cryptonews.net/",
+      "description": "Crypto News is a platform which provides most important news, articles and other content about cryptocurrencies and blockchain today. We provide forecasts, analytics and more.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english",
+        "arabic",
+        "spanish",
+        "german",
+        "russian"
+      ],
+      "country": [
+        "estonia",
+        "russia",
+        "germany",
+        "spain",
+        "united arab emirates"
+      ]
+    },
+    {
+      "id": "wek",
+      "name": "Век&raquo",
+      "url": "https://wek.ru/",
+      "description": "Электронная газета &laquo;Век&raquo; — это актуальная информация обо всех значимых событиях политической, экономической, общественной и спортивной жизни России и зарубежья.",
+      "category": [
+        "top",
+        "politics",
+        "business",
+        "sports",
+        "entertainment"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "ria",
+      "name": "Ria",
+      "url": "https://ria.ru/",
+      "description": "Новости в России и мире, самая оперативная информация: темы дня, обзоры, анализ. Фото и видео с места событий, инфографика, радиоэфир, подкасты",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "sovsport",
+      "name": "Советский спорт",
+      "url": "https://www.sovsport.ru/",
+      "description": "последние спортивные новости, все главные события в России и мире. Футбол, хоккей, бокс, ММА, теннис, баскетбол, фигурное катание, биатлон, лыжные гонки и многое другое - самые свежие новости спорта на сайте Sovsport.ru.",
+      "category": [
+        "sports"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "sport_express",
+      "name": "СПОРТ-ЭКСПРЕСС",
+      "url": "https://www.sport-express.ru/",
+      "description": "Ведущий спортивный интернет-портал Спорт-Экспресс. Самые свежие новости спорта, обзоры соревнований, интервью со спортсменами, фото- и видеогалереи. Архивы выпусков газеты. Трансляции матчей онлайн.",
+      "category": [
+        "sports"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "freedmanclub",
+      "name": "Freedmanclub",
+      "url": "https://freedmanclub.com/",
+      "description": "2015-2023 ✪ Последние новости сегодня и сейчас о курсах криптовалют Биткоин (BTC News), Ton Open Network (TON), TRON (TRX), Binance Smart Chain (BNB), The Money Chain (TMY), Litecoin в России и мире ✅ Обзоры, Blockchain, аналитика, прогнозы, технический анализ. Курсы криптовалют онлайн в реальном времени. Работаем 24/7.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "azattyq",
+      "name": "Азаттық радиосы",
+      "url": "https://www.azattyq.org/",
+      "description": "Азат Еуропа/Азаттық Радиосы халықаралық медиа компаниясының Қазақ қызметінің вебсайты. Тәуелсіз ақпарат құралы һәм сенімді хабар көзі.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "beincrypto",
+      "name": "BeInCrypto",
+      "url": "https://beincrypto.com/news/",
+      "description": "View breaking news and unbiased analysis on Bitcoin and the cryptocurrency market from BeInCrypto, the only ad-free media in the blockchain industry.",
+      "category": [
+        "top",
+        "technology",
+        "business"
+      ],
+      "language": [
+        "english",
+        "arabic",
+        "french",
+        "spanish",
+        "indonesian",
+        "vietnamese",
+        "german",
+        "japanese",
+        "polish",
+        "thai",
+        "turkish",
+        "russian",
+        "korean",
+        "portuguese"
+      ],
+      "country": [
+        "united kingdom",
+        "russia"
+      ]
+    },
+    {
+      "id": "vestikz",
+      "name": "Vesti",
+      "url": "https://vesti.kz/",
+      "description": "Последние новости спорта и все спортивные новости Казахстана и мира - спортивные результаты, прогнозы, обзоры. Эксклюзивные новости спорта.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "ng",
+      "name": "Наша Газета",
+      "url": "https://www.ng.kz/",
+      "description": "Костанайский региональный портал",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "bitok_news",
+      "name": "Биток Новости",
+      "url": "https://bitok.news/",
+      "description": "Новостной портал о биткойне, криптовалютах и блокчейне. Мы публикуем актуальные новости из мира криптовалют, блокчейна и крипто-проектов, делаем обзоры и дайджесты значимых событий биткоин-индустрии",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "novayagazeta",
+      "name": "Novayagazeta Ru",
+      "url": "https://novayagazeta.ru/",
+      "description": "Журналистские расследования о коррупции в бизнесе и во власти, специальные репортажи с событий политической и культурной жизни, главные новости, галереи, онлайн-кинотеатр, мнения и рецензии ведущих журналистов и экспертов страны",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "nv",
+      "name": "Газета «Новый Вестник»",
+      "url": "http://nv.kz/",
+      "description": "Информационное агентство карагандинской печатной газеты «Новый вестник». Мы освещаем ежедневные новости Караганды и Карагандинской области. Самые свежие произошедшие события города Караганда и Карагандинской области. «Новый Вестник» и Караганда в режиме онлайн.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "mk",
+      "name": "MK",
+      "url": "https://www.mk.ru/",
+      "description": "Новостной портал MK.RU: последние новости России и мира. Свежие новости политики, общества, спорта, культуры, новости дня о происшествиях. Освещаем ярко!",
+      "category": [
+        "sports",
+        "science",
+        "entertainment",
+        "politics",
+        "business",
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "cryptotruth",
+      "name": "Crypto Truth",
+      "url": "https://crypto-truth.com/es/",
+      "description": "Crypto Truth Top articles and news about crypto world",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english",
+        "hindi",
+        "arabic",
+        "french",
+        "spanish",
+        "german",
+        "italian",
+        "turkish",
+        "russian",
+        "chinese",
+        "korean",
+        "portuguese"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "mospravda",
+      "name": "Главная",
+      "url": "https://mospravda.ru/",
+      "description": "Только по-настоящему важные новости. Экспертные мнения по актуальным темам. Непредвзятый взгляд на события, происходящие в Москве, стране и мире",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "bits_media",
+      "name": "Bits Media",
+      "url": "https://bits.media/",
+      "description": "Новости криптовалют, финтеха, блокчейна, майнинга, DeFi. Обзоры майнеров, курсы биткоина, форков и альткоинов, калькулятор биткоин.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "rt_ru",
+      "name": "RT IN RUSSIA",
+      "url": "https://russian.rt.com/",
+      "description": "Актуальная картина дня на RT: круглосуточное ежедневное обновление новостей политики, бизнеса, финансов, спорта, науки, культуры. Онлайн-репортажи с места событий. Комментарии экспертов, актуальные интервью, фото и видео репортажи.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "kp_ru",
+      "name": "Kp Ru",
+      "url": "https://www.kp.ru/",
+      "description": "Самые свежие новости России и мира. Мы ежедневно публикуем самую актуальную информацию. Комсомольская Правда в РФ - газета, радио и сайт",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "centralasia",
+      "name": "CentralAsia",
+      "url": "https://centralasia.media/",
+      "description": "Информационно-новостной портал о Центральной Азии : Казахстан, Кыргызстан, Таджикистан,Туркменистан, Узбекистан, Афганистан",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "inform",
+      "name": "inform",
+      "url": "https://www.inform.kz/",
+      "description": "Последние новости мира и Казахстана - онлайн новости последнего часа Подбор самых актуальных новостей на сегодня",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "investing",
+      "name": "investing",
+      "url": "https://ru.investing.com/",
+      "description": "Investing.com – котировки валют, акции, форекс, индексы, а также технический анализ, графики, финансовые новости и аналитика.",
+      "category": [
+        "top",
+        "business"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "kursiv",
+      "name": "Kursiv Media",
+      "url": "https://kz.kursiv.media/",
+      "description": "Курсив Медиа Казахстан - деловой портал. Последние новости в Республике Казахстан и мире сегодня: экономика, политика, бизнес и финансы, прогнозы и аналитика финансового мира.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "ethereumnews",
+      "name": "Новости эфириума",
+      "url": "https://ethereumnews.ru/",
+      "description": "Эфириум сейчас. Ethereum новости .Ethereum сегодня. Ethereum сейчас. Эфириум 2.0. Ethereum 2.0. Эфириум кошелек. Ethereum кошелек. ETH кошелек. Криптовалюта. Крипта.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "newsru_com",
+      "name": "Newsru",
+      "url": "https://www.newsru.com/",
+      "description": "Все новости России и мира от NEWSru.com. Новость часа. Архив материалов. Поиск публикаций.",
+      "category": [
+        "top",
+        "technology",
+        "sports",
+        "business",
+        "world",
+        "entertainment"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "ekaraganda",
+      "name": "ekaraganda",
+      "url": "http://ekaraganda.kz/",
+      "description": "Информационно – развлекательный портал Караганды, новости Караганды, последние события в Караганде и области, вся жизнь Караганды на одном сайте, сайт Караганды, фото видео Караганды",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "yabloko",
+      "name": "Партия Яблоко",
+      "url": "https://www.yabloko.ru/",
+      "description": "Наша цель — сделать Россию свободной, современной, европейской страной 21 века. Это уважение к человеку, к его жизни, безопасности, к его будущему.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "iz",
+      "name": "Известия",
+      "url": "https://iz.ru/",
+      "description": "",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "3dnews",
+      "name": "3DNEWS",
+      "url": "https://3dnews.ru/",
+      "description": "Самые интересные и оперативные новости из мира высоких технологий. На нашем портале - все о компьютерном железе, гаджетах, ноутбуках и других цифровых устройствах. А также обзоры новых игр, достижения современной науки и самые любопытные онлайн-проекты.",
+      "category": [
+        "technology"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "sportskz",
+      "name": "Sports.kz",
+      "url": "https://www.sports.kz/",
+      "description": "Все новости спорта Казахстана, аналитика, интервью, статистика, фото и видео. Календари игр, результаты матчей и турнирные таблицы. Онлайн трансляции матчей.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "rbc",
+      "name": "RBC",
+      "url": "https://www.rbc.ru/",
+      "description": "Последние новости России и мира на РБК. «РосБизнесКонсалтинг» — ведущая российская компания, работающая в сферах масс-медиа и информационных технологий. Самые свежие новости, главные темы дня в политике, экономике, бизнесе и жизни.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "allphones",
+      "name": "AllPhones",
+      "url": "http://allphones.kz/",
+      "description": "Allphones.kz – это портал, объединяющий информацию о мобильной связи Казахстана. Тут легко и просто можно найти информацию о интересующих вас операторах сотовой связи, их тарифах, подобрать модель телефона по цене и качественным показателям.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "hashtelegraph",
+      "name": "Hash Telegraph",
+      "url": "https://hashtelegraph.com/",
+      "description": "sh#Telegraph – это про блокчейн, а также обо всем вокруг и внутри него. Мы пишем о технологиях, будущем, новой экономике, и о том, что она уже породила.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "interfax",
+      "name": "Интерфакс",
+      "url": "http://www.interfax.ru/",
+      "description": "Новости информационного агентства Интерфакс.Ведущее информагентство страны\r\nРазработчик B2B сервисов по управлению рисками",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "sia",
+      "name": "Сибирское информационное агентство",
+      "url": "http://sia.ru/",
+      "description": "Портал SIA.RU - первый в Иркутской области информационный Проект, посвященный инвестиционно - банковской тематике: услугам банков, инвестиционных, управляющих, страховых компаний, негосударственных пенсионных фондов.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "neironix",
+      "name": "Neironix",
+      "url": "https://neironix.io/news/all",
+      "description": "仮想通貨のニュース、仮想通貨市場の最新ニュース、Neironixでのビットコイン分析ニュース",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "english",
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "acryptoinvest",
+      "name": "AcryptoInvest",
+      "url": "https://acryptoinvest.news/",
+      "description": "Work on promoting the brand of financial projects. I provide information support services on more than 200 specialized forums: - Forex brokers (Forex); - Cryptocurrency exchanges; - ICO projects; - Cryptocurrency services",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "vladnews",
+      "name": "Vladnews.ru",
+      "url": "https://vladnews.ru/",
+      "description": "Новости Владивостока и Приморского края - Информационный портал Владивосток | Vladnews.ru: Новости Большого города",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "trud_ru",
+      "name": "Газета Труд",
+      "url": "http://www.trud.ru/",
+      "description": "Газета Труд расскажет Вам о последних новостях, происшествиях, политике, работе и развлечениях",
+      "category": [
+        "sports"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "id": "uralskweek",
+      "name": "Главная",
+      "url": "https://www.uralskweek.kz/",
+      "description": "Еженедельная общественно-политическая газета",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "russia"
+      ]
+    }
+  ]
+}

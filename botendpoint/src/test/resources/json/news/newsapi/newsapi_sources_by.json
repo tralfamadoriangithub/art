@@ -1,0 +1,250 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "id": "gazetaby",
+      "name": "Салiдарнасць",
+      "url": "https://gazetaby.com/telegraf.by/nv-online.info/govorim.by/vitebsk.cc/ex-press.by/afn.by/",
+      "description": "",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "udf",
+      "name": "UDF",
+      "url": "https://udf.name/",
+      "description": "Новости Республики Беларусь ➤ Обзор новостей с фото и видео ➤ Узнавайте первыми последние белорусские новости на сайте UDF",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "govorim",
+      "name": "Govorim.by",
+      "url": "http://govorim.by/",
+      "description": "Городские порталы Беларуси: новости и события из жизни 50 городов страны. Анонсы культурных, спортивных, пр. мероприятий. Справочная информация.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "belta",
+      "name": "БелТА",
+      "url": "https://www.belta.by/",
+      "description": "Новости Беларуси из главного источника официальной информации. Узнавайте новости Беларуси сегодня первыми: происшествия, фотоновости, видеоновости, новости культуры, новости мира, новости политики, новости экономики.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "charter97",
+      "name": "Хартия&#039;97",
+      "url": "https://charter97.org/",
+      "description": "Хартия&#039;97 :: Новости Беларуси - Белорусские новости - Новости Белоруссии - Республика Беларусь - Минск",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "telegraf_be",
+      "name": "Telegraf.news",
+      "url": "https://telegraf.news/",
+      "description": "Горячие новости Беларуси и мира ✅ Только свежие и последние актуальные белорусские и мировые новости ✅ Видеоролики и фотографии.",
+      "category": [
+        "top",
+        "politics",
+        "world",
+        "business",
+        "health",
+        "environment"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "afn",
+      "name": "AFN.BY",
+      "url": "https://afn.by/",
+      "description": "АФН Независимые новости из Беларуси Курсы валют Политика, экономика, энергетика, общество. Оперативная информация о финансовых рынках Беларуси: валюта, ценные бумаги, приватизация.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "ex-press",
+      "name": "EX-PRESS.BY",
+      "url": "https://ex-press.by/",
+      "description": "EX-PRESS.BY, ex-press.by, ex, экспресс, Борисов, Жодино, новости, последние, популярные, статьи, факты, комментарии, интервью, поиск, курсы, валюта, новости Беларуси, фото, видео, борисовдрев, батэ, березина, арена, белджи, джили, тунеядцы, идеология, совок, Лукашенко",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "svaboda",
+      "name": "Радыё Свабода",
+      "url": "https://www.svaboda.org/",
+      "description": "Радыё Свабода — больш чым Радыё. Навіны палітыкі, культуры, эканомікі Беларусі. Рэпартажы, інтэрвію, расьсьледаваньні. Даступныя 24/7 на сайце svaboda.org, на спадарожніку, і ў сацыяльных сетках. Радио Свобода — Новости Беларуси",
+      "category": [
+        "politics",
+        "top",
+        "business",
+        "sports",
+        "technology"
+      ],
+      "language": [
+        "belarusian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "infobank",
+      "name": "InfoBank.by",
+      "url": "https://infobank.pt/",
+      "description": "Банк, инфобанк, информационный банк, infobank, финансовые новости",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "vitebsk",
+      "name": "Народные новости Витебска",
+      "url": "https://vitebsk.cc/",
+      "description": "Новости Витебска и Витебской области: последние события, происшествия, актуальные темы и афиша.",
+      "category": [
+        "top",
+        "sports",
+        "environment",
+        "business"
+      ],
+      "language": [
+        "belarusian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "kurs",
+      "name": "kurs.by",
+      "url": "http://kurs.by/",
+      "description": "Лучший курс покупки",
+      "category": [
+        "business"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "football",
+      "name": "Football.By",
+      "url": "https://football.by/",
+      "description": "Новости футбола Беларуси и мира: статистика, статьи, репортажи, видео, фото, трансферы, турнирные таблицы и онлайн трансляции футбольных матчей.",
+      "category": [
+        "sports"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "s13",
+      "name": "Blog Grodno s13",
+      "url": "https://s13.ru/",
+      "description": "Новости Гродно и важные события города и региона. Гродненская афиша, вебкамера Гродно, отзывы о заведениях и бесплатные частные объявления",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "russian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "nashaniva",
+      "name": "Наша Ніва",
+      "url": "https://nashaniva.com/",
+      "description": "Першая беларуская газета з рысункамі.",
+      "category": [
+        "top",
+        "business",
+        "health",
+        "entertainment",
+        "food",
+        "world",
+        "technology",
+        "sports",
+        "environment"
+      ],
+      "language": [
+        "belarusian"
+      ],
+      "country": [
+        "belarus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "id": "hromadske",
+      "name": "hromadske",
+      "url": "https://hromadske.ua/",
+      "description": "Наукові досягнення, відкриття та дослідження, які мають значення для майбутнього. Дослідження людського організму, новітні відкриття у медицині та психології; вивчення живих організмів, роз’яснення вчених - Читайте на Громадському",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "champion",
+      "name": "Champion",
+      "url": "https://champion.com.ua/",
+      "description": "Чемпіон - новини спорту світу та України. Спортивні новини онлайн відео онлайн-трансляції. Футбол бокс теніс біатлон ММА",
+      "category": [
+        "sports"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "korrespondent",
+      "name": "Korrespondent",
+      "url": "https://ua.korrespondent.net/",
+      "description": "Новини сьогодні - новини України сьогодні. Головні новини в Україні та світі онлайн, всі надзвичайні новини дня - політика, економіка, новини спорту та шоу-бізнесу",
+      "category": [
+        "science",
+        "technology",
+        "politics",
+        "food",
+        "health",
+        "entertainment",
+        "business",
+        "sports",
+        "top"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "unn",
+      "name": "UNN",
+      "url": "https://www.unn.com.ua/",
+      "description": "Читайте головні новини від редакції УНН",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "unian",
+      "name": "Unian",
+      "url": "https://www.unian.ua/",
+      "description": "Новини України. УНІАН - останні новини Україна, новини дня онлайн. Новини політики, економіки, свіжі новини спорту, новини України та світу 2021 цілодобово українською мовою від УНІАН.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "glavcom",
+      "name": "Glavcom",
+      "url": "https://glavcom.ua/",
+      "description": "Всі новини України і світу. Свіжі новини політики, економіки, спорту та шоу-бізнесу. Останні новини 2021 року за сьогодні онлайн. Найголовніші події дня.",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "pravda_uk",
+      "name": "Українська правда",
+      "url": "https://www.pravda.com.ua/",
+      "description": "Українська правда - новини про Україну",
+      "category": [
+        "top"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "jurist",
+      "name": "JURIST",
+      "url": "https://www.jurist.org/",
+      "description": "Legal News & Commentary Serious law. Primary sources. Global perspective",
+      "category": [
+        "top",
+        "world"
+      ],
+      "language": [
+        "english"
+      ],
+      "country": [
+        "united states of america",
+        "afghanistan",
+        "canada",
+        "india",
+        "united arab emirates",
+        "kenya",
+        "myanmar",
+        "pakistan",
+        "sri lanka",
+        "united kingdom",
+        "ukraine"
+      ]
+    },
+    {
+      "id": "sport_ua",
+      "name": "SPORT",
+      "url": "https://sport.ua/",
+      "description": "Новости спорта на SPORT.UA ✍ Все спортивные новости онлайн ✅ Спортивные события ✋ Видео ☝ Фото ⚡ Обзоры ☛ Смотрите самые свежие новости спорта всего мира",
+      "category": [
+        "sports"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "censor",
+      "name": "censor",
+      "url": "https://censor.net/",
+      "description": "Цензор.НЕТ – последние новости дня в Украине и мире. Самые свежие новости собраны на сайте censor.net",
+      "category": [
+        "business",
+        "top"
+      ],
+      "language": [
+        "ukrainian"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    }
+  ]
+}

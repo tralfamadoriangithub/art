@@ -1,0 +1,14 @@
+server:
+  port: 8088
+
+app:
+  bot:
+    apiKey: ${BOT_KEY}
+  gpt:
+    apiKey: ${GPT_KEY}
+  youtube:
+    apiKey: ${YOUTUBE_KEY}
+  news:
+    newsApi:
+      url: https://newsdata.io/api/1
+      apiKey: ${NEWSAPI_KEY}

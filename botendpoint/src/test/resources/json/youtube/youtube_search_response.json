@@ -1,0 +1,80 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Qp1w6J0XRjfs5lajuZ_SkWWnqbo",
+  "nextPageToken": "CAIQAA",
+  "regionCode": "UZ",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 2
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2UqY0tlU7_wnsmdh6ybuYxYIhbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NifKNSpp0_4"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-17T12:20:38Z",
+        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+        "title": "Diana and Roma show the Safety Rules on board the Airplane",
+        "description": "Diana and Roma demonstrate the rules of conduct on board the plane by playing the Airplane Challenge. Subscribe to Kids ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NifKNSpp0_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NifKNSpp0_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NifKNSpp0_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "✿ Kids Diana Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-17T12:20:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8AsevkvD4MwdEt_IRBSVxOwrAjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kn6-c223DUU"
+      },
+      "snippet": {
+        "publishedAt": "2010-06-17T16:52:20Z",
+        "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
+        "title": "B.o.B - Airplanes (feat. Hayley Williams of Paramore) [Official Video]",
+        "description": "The official video for \"Airplanes\" by B.o.B featuring Hayley Williams of Paramore form Bobby's album 'B.o.B Presents: The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kn6-c223DUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kn6-c223DUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kn6-c223DUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Atlantic Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-06-17T16:52:20Z"
+      }
+    }
+  ]
+}
